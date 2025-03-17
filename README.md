@@ -1,23 +1,55 @@
 
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=welcome!&fontSize=90" />
 
-# 🏆 Awards
+# 🏆 수상
+### 2023학년도(1학년)
+###### 
+* 학업 계획서 우수상
+######
+* 협력 부문 표창장
+######
+* 1학기 다독상 장려상
+######
+* 2학기 다독상 최우수상
+######
+* 2학기 유니티 개인 프로젝트 3등
+######
+* 2학기 게임엔진기초 교과우수상
+######
+* 제펫스튜디오 동계 온라인 단기 아카데미 프로그램 장려상
+<br/><br>
+### 2024학년도(2학년)
+###### 
+* 다독상 우수상
+######
+* 1학기  WIN32API 팀 프로젝트 3등
+######
+* 1학기 유니티 팀 프로젝트 3등
+######
+* 1학기 게임엔진응용 교과우수상
+######
+* 2학기 WIN32API 팀 프로젝트 우수작
+######
+* 2024 교내 2학기 유니티 팀 프로젝트 2등
+######
+* 2024 교내 2학기 게임엔진응용 교과우수상
+<br/><br>
 
-### 2023 1학기 개인프로젝트 우수작 3등
-### 2023 1학기 협력부문 표창장
-### 2023 2학기 개인프로젝트 우수작 선정
-### 2023 2학기 선행부문 표창장
-### 2024 1학기 개인프로젝트 우수작 선정
-### 2024 1학기 배려부문 표창장
-# 💪보유 자격증
+# 📝 보유 자격증
 
-### 정보처리 기능사
-### ITQ엑셀(A)
-### ITQ인터넷 (A)
+####
+* 정보처리 기능사
+#### 
+* ITQ엑셀(A)
+#### 
+* ITQ인터넷 (A)
+<br/><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youtaehew)](https://solved.ac/profile/youtaehew123)
+# 💻알고리즘
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youtaehew123)](https://solved.ac/profile/youtaehew123)
+<br/><br>
 
-#
-[![GitHub Streak](https://streak-stats.demolab.com?user=dlstjd0237&theme=dracula&border_radius=5&locale=ko)](https://git.io/streak-stats)
-#    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dlstjd0237&show_icons=true&theme=cobalt&include_all_commits=true)
+# [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev) GitHub
+[![streak](https://github-readme-streak-stats.herokuapp.com/?user=youtaehew&theme=calm)](https://github.com/youtaehew)
+
+[![ksan09's github stats](https://github-readme-stats.vercel.app/api?username=youtaehew&show_icons=true&theme=dracula)](https://github.com/youtaehew)
