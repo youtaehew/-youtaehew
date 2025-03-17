@@ -49,7 +49,3 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=youtaehew123)](https://solved.ac/profile/youtaehew123)
 <br/><br>
 
-# [![My Skills](https://skillicons.dev/icons?i=github&perline=3)](https://skillicons.dev) GitHub
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=youtaehew&theme=calm)](https://github.com/youtaehew)
-
-[![ksan09's github stats](https://github-readme-stats.vercel.app/api?username=youtaehew&show_icons=true&theme=dracula)](https://github.com/youtaehew)
